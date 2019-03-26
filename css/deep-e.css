@@ -1,0 +1,165 @@
+.canvas {
+	margin-top: 100px;
+	margin-bottom: 50px;
+	width: 1300px;
+}
+
+.deep {
+	float: left;
+	display: block;
+}
+
+.meter-hide {
+	visibility: hidden;
+}
+
+.deep-meter {
+	border-left: 3px solid #333;
+	width: 30px;
+	height: 6371000px;
+	z-index: 999;
+	position: relative;
+}
+.deep-meter span {
+	position: absolute;
+	margin-left: 10px;
+	z-index: 150px;
+	white-space: nowrap;
+}
+
+/* IMAGES */
+.deep-image {
+	width: 700px;
+}
+.deep-image-8k {
+	height: 2000px;
+	background-image: url("../images/sky_10k-8k.jpg");
+}
+.deep-image-5k {
+	height: 3000px;
+	background-image: url("../images/sky_8k-5k.jpg");
+}
+.deep-image-2k {
+	height: 3000px;
+	background-image: url("../images/sky_5k-2k.jpg");
+}
+.deep-image-0 {
+	height: 2500px;
+	background-image: url("../images/sky_2k-500d.jpg");
+}
+
+
+/* TEXT */
+.deep-text {
+	width: 520px;
+	padding-left: 20px;
+	position: relative;
+}
+.deep-text div {
+	position: absolute;
+	width: 510px;
+	z-index: 300;
+
+	background-color: #FFF;
+	border: 1px solid #AAA;
+  padding: 10px;
+  padding-bottom: 20px;
+  border-radius: 5px;
+}
+.deep-text .call-next {
+	display: block;
+	text-align: right;
+	width: 100%;
+	font-size: 12px;
+}
+.deep-text div.one-third {
+	margin-left: -30px;
+}
+.deep-text div.two-third {
+	margin-left: -20px;
+	z-index: 310;	
+}
+.deep-text div.three-third {
+	margin-left: -10px;
+	z-index: 320;	
+}
+.deep-text div.active.one-third {
+	margin-left: -600px;
+	width: 800px;
+}
+.deep-text div.active.two-third {
+	margin-left: -300px;
+	width: 700px;
+}
+.deep-text div.active.three-third {
+	margin-left: -200px;
+	width: 600px;
+	z-index: 320;
+}
+.deep-text div.active {
+	position: relative;
+	z-index: 400;
+}
+.deep-text div.active:after, .deep-text div.active:before {
+	right: 100%;
+	top: 25px;
+	border: solid transparent;
+	content: " ";
+	height: 0;
+	width: 0;
+	position: absolute;
+	pointer-events: none;
+}
+
+.deep-text div.active:after {
+	border-color: rgba(136, 183, 213, 0);
+	border-right-color: #FFF;
+	border-width: 10px;
+	margin-top: -10px;
+}
+.deep-text div.active:before {
+	border-color: rgba(194, 225, 245, 0);
+	border-right-color: #AAA;
+	border-width: 12px;
+	margin-top: -12px;
+}
+
+
+
+.mark {
+	background-color: #fcf8e3;
+	border: 1px solid #AAA;
+	height: 30px;
+}
+.mark:after, .mark:before {
+	right: 100%;
+	top: 50%;
+	border: solid transparent;
+	content: " ";
+	height: 0;
+	width: 0;
+	position: absolute;
+	pointer-events: none;
+}
+.mark:after {
+	border-color: rgba(252, 248, 227, 0);
+	border-right-color: #fcf8e3;
+	border-width: 10px;
+	margin-top: -10px;
+}
+.mark:before {
+	border-color: rgba(170, 170, 170, 0);
+	border-right-color: #aaa;
+	border-width: 11px;
+	margin-top: -11px;
+}
+
+
+.mark-sign {
+	background-color: #fcf8e3;
+	border: 1px solid #AAA;
+	height: 30px;
+	padding: 2px 5px;
+	margin-top: 5px;
+	opacity: 0.4;
+}

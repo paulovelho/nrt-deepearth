@@ -1,0 +1,45 @@
+.meter-10000up { top: calc(10000px - 10000px - 20px); }
+.meter-8848up { top: calc(10000px - 8848px - 20px); }
+.meter-9200up { top: calc(10000px - 9200px - 20px); }
+.meter-6263up { top: calc(10000px - 6263px - 20px); }
+
+.meter-5895up { top: calc(10000px - 5895px - 20px); }
+.meter-5337up { top: calc(10000px - 5337px - 20px); }
+.meter-5000up { top: calc(10000px - 5000px - 20px); }
+
+.meter-4500up { top: calc(10000px - 4500px - 20px); }
+
+.meter-1500up { top: calc(10000px - 1500px - 20px); }
+
+.meter-524up {
+	top: calc(10000px - 524px - 20px);
+}
+
+.meter-24up {
+	top: calc(10000px - 24px - 20px);
+}
+
+.meter-2up {
+	top: calc(10000px - 10px - 20px);
+}
+
+.meter-0 {
+	top: calc(10000px - 20px);
+}
+
+.meter-115down {
+	top: calc(10000px + 115px - 20px);	
+}
+.meter-253down {
+	top: calc(10000px + 253px - 20px);	
+}
+
+.meter-3810down {
+	top: calc(10000px + 3810px - 20px);	
+}
+.meter-10898down {
+	top: calc(10000px + 10898px - 20px);	
+}
+.meter-10994down {
+	top: calc(10000px + 10994px - 20px);	
+}

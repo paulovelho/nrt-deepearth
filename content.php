@@ -340,7 +340,7 @@
 
 		<div class="meter-5150000down two-third l2" onclick="select('5150000down');">
 			Chegando a 5.430°C o núcleo mais núcleo possível da Terra é da mesma temperatura da superfície do Sol (e mais ou menos a temperatura de Campo Grande no verão).<br/>
-			Mesmo assim, o núcleo interno da terra é uma bolota de ferro e níquel sólida. Isso porque, quanto maior a pressão, maior a temperatura necessária para derretimento desses metais e a pressão no núcleo pode chegar a 3.500.000 atmosferas, mais ou menos a mesma que uma garota solteira sofre quando está chegando aos 38 anos solteira, com todas as primas já tendo se casado.
+			Mesmo assim, o núcleo interno da terra é uma bolota de ferro e níquel sólida. Isso porque, quanto maior a pressão, maior a temperatura necessária para derretimento desses metais e a pressão no núcleo pode chegar a 3.500.000 atmosferas, mais ou menos a mesma pressão sofrida por uma garota solteira ainda cursando a faculdade aos 28 anos, com todas suas primas já formadas e casadas.
 			<span class="call-next"><a href="javascript:goTo('6351000down');" class="next">Centro da Terra (Pólos) &gt;&gt;</a></span>
 		</div>
 

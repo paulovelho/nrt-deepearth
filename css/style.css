@@ -21,6 +21,12 @@ a:hover {
 	background-color: #FFF;
 	height: 50px;
 }
+.header a {
+	color: #333;
+}
+.header a:hover {
+	color: #550;
+}
 .container {
 	margin-top: 50px;
 }

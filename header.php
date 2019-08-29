@@ -3,7 +3,9 @@
 		<a class="site-title" href="http://nrt.paulovelho.com.br/" >nRT</a>
 	</div>
   <div class="navbar-brand col-sm-8 center page-title" href="#">
-    Viagem ao centro da Terra
+    <a href="http://nrt.paulovelho.com.br/?p=429&preview=true">
+    	Viagem ao centro da Terra
+    </a>
   </div>
 	<div class="navbar-brand col-sm-2 mr-0" href="#">
 		&nbsp;

@@ -17,7 +17,7 @@
 	border-left: 3px solid #333;
 	width: 30px;
 	height: 6371000px;
-	z-index: 999;
+	z-index: 400;
 	position: relative;
 }
 .deep-meter span {
@@ -130,7 +130,7 @@
 
 .deep-text div.active {
 	position: relative;
-	z-index: 400 !important;
+	z-index: 500 !important;
 	background-color: #DDD;
   opacity: 1 !important;
 }

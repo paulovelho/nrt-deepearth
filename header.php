@@ -7,7 +7,7 @@
     	Viagem ao centro da Terra
     </a>
   </div>
-	<div class="navbar-brand col-sm-2 mr-0" href="#">
+	<div class="navbar-brand col-sm-2 mr-0 header-right" href="#">
 		&nbsp;
 	</div>
 </nav>

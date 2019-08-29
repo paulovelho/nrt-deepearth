@@ -120,7 +120,6 @@ a:hover {
 }
 
 
-
 @media only screen and (max-width: 1000px) {
   .container {
     margin: 50px 0;
@@ -141,8 +140,39 @@ a:hover {
   	margin-left: -400px !important;
     width: 400px !important;
   }
+}
 
-  .deep-text div.active {
-
-  }
+@media only screen and (max-width: 480px) {
+	.header .page-title {
+		position: absolute;
+		text-align: right;
+	}
+	.header .header-right {
+		display: none;
+	}
+	.col-12 {
+		padding: 0;
+	}
+	.deep-meter {
+		width: 1px !important;
+	}
+	.deep.deep-image {
+		width: 370px;
+	}
+	.deep.deep-image div {
+		background-size: 100% 100%;
+	}
+	.deep.deep-text {
+		margin-left: -350px;
+	}
+	.deep.deep-text div {
+		opacity: 0 !important;
+		width: 300px;
+	}
+	.deep-text div.active.one-third,
+	.deep-text div.active.two-third,
+	.deep-text div.active.three-third {
+		margin-left: 20px !important;
+    width: 300px !important;
+	}
 }

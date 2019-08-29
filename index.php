@@ -10,6 +10,7 @@
 	<link href='css/deep-e.css' rel='stylesheet'>
 	<link href='css/meters.css' rel='stylesheet'>
 	<link rel='stylesheet' id='googleFonts-css'  href='//fonts.googleapis.com/css?family=Old+Standard+TT%3A400%2C700%7CPT+Serif%3A400%7CMerriweather%3A400%2C700%7COpen+Sans%3A700%2C400&#038;subset=latin&#038;ver=4.9.8' type='text/css' media='all' />
+
 </head>
 <body>
 	<?php include("header.php"); ?>

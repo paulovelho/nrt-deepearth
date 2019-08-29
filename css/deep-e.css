@@ -47,7 +47,63 @@
 	height: 2500px;
 	background-image: url("../images/sky_2k-500d.jpg");
 }
-
+.deep-ocean-0 {
+	height: 2500px;
+	background-image: url("../images/ocean_500-3k.jpg");
+}
+.deep-ocean-3k {
+	height: 5000px;
+	background-image: url("../images/ocean_3k-8k.jpg");
+}
+.deep-ocean-8k {
+	height: 5000px;
+	background-image: url("../images/ocean_8k-13k.jpg");
+}
+.deep-crust-end {
+	height: 7000px;
+	background-color: #000;
+}
+.deep-crust-end-1 {
+	height: 20000px;
+	background-image: linear-gradient(#000, #300);
+}
+.deep-discontinuity {
+	height: 500px;
+	background-color: #331212;
+}
+.deep-crust-end-2 {
+	height: 9500px;
+	background-image: linear-gradient(#300, #420000);
+}
+.deep-outer-mantle {
+	height: 360000px;
+	background-image: linear-gradient(#420000, #8a4000);
+}
+.deep-transition-zone {
+	height: 250000px;
+	background-image: linear-gradient(#8a4000, #b58f10);	
+}
+.deep-inner-mantle {
+	height: 2250000px;
+	background-image: linear-gradient(#b58f10, #AAA);	
+}
+.deep-outer-core {
+	height: 2240000px;
+	background-image: linear-gradient(#DDD, #444);	
+}
+.deep-inner-core {
+	height: 1228000px;
+	background-image: linear-gradient(#666, #000);	
+}
+.deep-free-falling {
+	position: absolute;
+	top: calc(10000px + 4800000px - 20px);
+	left: 100px;
+	height: 200px;
+  width: 100px;
+  z-index: 100;
+	background-image: url("../images/free-falling.png");
+}
 
 /* TEXT */
 .deep-text {
@@ -60,12 +116,35 @@
 	width: 510px;
 	z-index: 300;
 
-	background-color: #FFF;
-	border: 1px solid #AAA;
+	background-color: #AAA;
+	border: 1px solid #777;
   padding: 10px;
   padding-bottom: 20px;
   border-radius: 5px;
+
+  opacity: 0.8;
 }
+.deep-text div.l1 { opacity: 0.6; }
+.deep-text div.l2 { opacity: 0.5; }
+.deep-text div.l3 { opacity: 0.4; }
+
+.deep-text div.active {
+	position: relative;
+	z-index: 400 !important;
+	background-color: #DDD;
+  opacity: 1 !important;
+}
+.deep-text div.active:after, .deep-text div.active:before {
+	right: 100%;
+	top: 25px;
+	border: solid transparent;
+	content: " ";
+	height: 0;
+	width: 0;
+	position: absolute;
+	pointer-events: none;
+}
+
 .deep-text .call-next {
 	display: block;
 	text-align: right;
@@ -96,30 +175,16 @@
 	width: 600px;
 	z-index: 320;
 }
-.deep-text div.active {
-	position: relative;
-	z-index: 400;
-}
-.deep-text div.active:after, .deep-text div.active:before {
-	right: 100%;
-	top: 25px;
-	border: solid transparent;
-	content: " ";
-	height: 0;
-	width: 0;
-	position: absolute;
-	pointer-events: none;
-}
 
 .deep-text div.active:after {
 	border-color: rgba(136, 183, 213, 0);
-	border-right-color: #FFF;
+	border-right-color: #DDD;
 	border-width: 10px;
 	margin-top: -10px;
 }
 .deep-text div.active:before {
 	border-color: rgba(194, 225, 245, 0);
-	border-right-color: #AAA;
+	border-right-color: #777;
 	border-width: 12px;
 	margin-top: -12px;
 }

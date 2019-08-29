@@ -5,6 +5,21 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+	<!-- SHARING META -->
+	<meta property="og:type" content="website"/>
+	<meta property="og:title" content="nRT: Viagem ao centro da terra"/>
+	<meta property="og:description" content="Da estratosfera ao núcleo terrestre"/>
+	<meta property="og:site_name" content="nRT"/>
+	<meta property="og:url" content="http://nrt.paulovelho.com.br/play/to-the-core/"/>
+	<meta property="og:image" content="http://nrt.paulovelho.com.br/play/to-the-core/images/deep-earth.jpg"/>
+	<meta property="twitter:image" content="http://nrt.paulovelho.com.br/play/to-the-core/images/deep-earth.jpg"/>
+	<meta property="twitter:card" content="summary"/>
+	<meta property="twitter:site" content="nRT"/>
+	<meta property="twitter:title" content="nRT: Viagem ao centro da terra"/>
+	<meta property="twitter:description" content="Da estratosfera ao núcleo terrestre"/>
+
+
+
 	<link href='css/bootstrap.min.css' rel='stylesheet'>
 	<link href='css/style.css' rel='stylesheet'>
 	<link href='css/deep-e.css' rel='stylesheet'>

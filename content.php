@@ -21,7 +21,7 @@
 			<li onclick="goTo('253down');"><span class="summary-alt">-253 m</span>Mergulho livre mais profundo</li>
 			<li onclick="goTo('258down');"><span class="summary-alt">-258 m</span>Woodingean Well</li>
 			<li onclick="goTo('430down');"><span class="summary-alt">-430 m</span>Praias do mar morto</li>
-			<li onclick="goTo('800down');"><span class="summary-alt">-800 m</span>Submarino San Juan</li>
+			<li onclick="goTo('907down');"><span class="summary-alt">-800 m</span>Submarino San Juan</li>
 
 			<li onclick="goTo('1000down');"><span class="summary-alt">-1.000 m</span>Ausência de luz solar</li>
 			<li onclick="goTo('1271down');"><span class="summary-alt">-1.271 m</span>Banda Agonizer</li>
@@ -214,10 +214,10 @@
 			<a href=”https://en.wikipedia.org/wiki/List_of_elevation_extremes_by_country” target=”_blank”>Esta lista na wikipedia</a>, porém, mostra 45 países que possuem algum ponto de terra com uma altitude abaixo do nível do mar.<br/>
 			Merece destaque, entretanto, o mar morto: suas praias, de um lado pertencentes à Israel e do outro à Jordânia atingem são o ponto mais profundo da terra que você pode pousar de helicóptero (eu demorei bastante pra procurar essa associação - não é necessariamente o ponto seco mais profundo, já que você pode ir mais baixo entrando em grutas ou minas).<br/>
 			Este recorde também dificilmente será quebrado: além de ser 200 metros abaixo do segundo colocado, o mar morto está encolhendo com o decorrer dos anos, criando praias ainda mais baixas. Dez anos atrás, este recorde era sete metros mais alto.
-			<span class="call-next"><a href="javascript:goTo('800down');" class="next">San Juan &gt;&gt;</a></span>
+			<span class="call-next"><a href="javascript:goTo('907down');" class="next">San Juan &gt;&gt;</a></span>
 		</div>
 
-		<div class="meter-800down one-third" onclick="select('800down');">
+		<div class="meter-907down one-third" onclick="select('907down');">
 			Em 15 de novembro de 2017, o submarino San Juan desapareceu da costa Argentina durante uma missão de rotina. Havia uma tripulação de 44 pessoas a bordo. A estimativa é que o oxigênio no interior da embarcação poderia durar somente mais sete dias. Uma missão de resgate contando com a ajuda da OTAN e de 14 outros países vasculhou uma imensa área de 482.507 km², com a ajuda de 15 aviões e 17 navios. Nada foi encontrado.<br/>
 			Quinze dias depois do desaparecimento, a missão de resgate foi rebaixada para uma missão de busca, sem esperanças que a tripulação ainda estivesse viva.<br/>
 			O submarino só foi encontrado um ano depois do desaparecimento, a uma profundidade de 907m.<br/>

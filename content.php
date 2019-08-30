@@ -151,7 +151,7 @@
 			<span class="call-next"><a href="javascript:goTo('1500up');" class="next">Pedra do Reino &gt;&gt;</a></span>
 		</div>
 
-		<div class="meter-1500up one-third" onclick="select('1500up');">
+		<div class="meter-1500up three-third" onclick="select('1500up');">
 			Pedra do Reino (de acordo <a href="http://nrt.paulovelho.com.br/reino-de-mufasa/" target="_blank">com este texto aqui</a>)
 			<span class="call-next"><a href="javascript:goTo('760up');" class="next">São Paulo &gt;&gt;</a></span>
 		</div>

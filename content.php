@@ -5,7 +5,7 @@
 		<ul>
 			<li onclick="goTo('10000up');"><span class="summary-alt">10.000 m</span>Estratosfera</li>
 			<li onclick="goTo('9200up');"><span class="summary-alt">~9.000 m</span>Balão de festa</li>
-			<li onclick="goTo('8848up');"><span class="summary-alt">8.848 m</span>Monte Everest</li>
+			<li onclick="goTo('8848up');"><span class="summary-alt">8.848 m</span>Monte Evaterest</li>
 			<li onclick="goTo('5895up');"><span class="summary-alt">5.895 m</span>Monte Kilimanjaro</li>
 			<li onclick="goTo('5337up');"><span class="summary-alt">5.337 m</span>Padre do balão</li>
 			<li onclick="goTo('4500up');"><span class="summary-alt">4.500 m</span>Tapete do Alladin</li>
@@ -212,7 +212,7 @@
 		<div class="meter-430down one-third" onclick="select('430down');">
 			Quando pensamos em "abaixo do nível do mar", o que vêm à cabeça é o trailer de <i>Procurando Nemo</i> e a idéia de que daqui a pouco os oceanos vão subir, inundar a Holanda e deixar queijos boiando em tamancos de madeira por aí.<br/>
 			<a href=”https://en.wikipedia.org/wiki/List_of_elevation_extremes_by_country” target=”_blank”>Esta lista na wikipedia</a>, porém, mostra 45 países que possuem algum ponto de terra com uma altitude abaixo do nível do mar.<br/>
-			Merece destaque, entretanto, o mar morto: suas praias, de um lado pertencentes à Israel e do outro à Jordânia atingem são o ponto mais profundo da terra que você pode pousar de helicóptero (eu demorei bastante pra procurar essa associação - não é necessariamente o ponto seco mais profundo, já que você pode ir mais baixo entrando em grutas ou minas).<br/>
+			Merece destaque, entretanto, o mar morto: suas praias, de um lado pertencentes à Israel e do outro à Jordânia são o ponto mais profundo da terra que você pode pousar de helicóptero (eu demorei bastante pra procurar essa associação - não é necessariamente o ponto seco mais profundo, já que você pode ir mais baixo entrando em grutas ou minas).<br/>
 			Este recorde também dificilmente será quebrado: além de ser 200 metros abaixo do segundo colocado, o mar morto está encolhendo com o decorrer dos anos, criando praias ainda mais baixas. Dez anos atrás, este recorde era sete metros mais alto.
 			<span class="call-next"><a href="javascript:goTo('907down');" class="next">San Juan &gt;&gt;</a></span>
 		</div>
@@ -349,7 +349,7 @@
 			<span class="call-next"><a href="javascript:goTo('6371071down');" class="next">Centro da Terra (Média) &gt;&gt;</a></span>
 		</div>
 		<div class="meter-6371071down two-third l2" onclick="select('6371071down');">
-			Mas, tal qual um engenheiro em formação, podemos tratar tudo com medidas aproximadas. É justo e um tanto quanto acurado estimar uma média de 6.371.071 de distância do centro da terra na maior parte do planeta.
+			Mas, tal qual um engenheiro em formação, podemos tratar tudo com medidas aproximadas. É justo e um tanto quanto acurado estimar uma média de 6.371.071 metros de distância do centro da terra na maior parte do planeta.
 			<span class="call-next"><a href="javascript:goTo('6378000down');" class="next">Centro da Terra (Equador) &gt;&gt;</a></span>
 		</div>
 		<div class="meter-6378000down two-third l2" onclick="select('6378000down');">

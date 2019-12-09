@@ -134,7 +134,7 @@
 		</div>
 
 		<div class="meter-4500up three-third" onclick="select('4500up');">
-			Altura de vôo do tapete do Alladin (de acordo <a href=""http://nrt.paulovelho.com.br/a-whole-new-world/" target="_blank">com este texto aqui</a>)
+			Altura de vôo do tapete do Alladin (de acordo <a href="http://nrt.paulovelho.com.br/a-whole-new-world/" target="_blank">com este texto aqui</a>)
 			<span class="call-next"><a href="javascript:goTo('3658up');" class="next">Lhasa, Tibet &gt;&gt;</a></span>
 		</div>
 
